@@ -4,8 +4,9 @@
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.bodyH{
-    background: url("Proj3-img.jpg");
+body{
+    background:url('http://wallpapercave.com/wp/GUAaScC.jpg');
+    color: whitesmoke;
 }
 .navbar{
     display: inline-flex;
@@ -59,7 +60,7 @@
     text-decoration: none;
 }
 .footer{
-    position: fixed;
+    position: relative;
     padding: 10px 10px 0px 10px;
     bottom: 0;
     display: inline-flex;
@@ -74,10 +75,11 @@
     margin-left: 470px;
     font-size: small;
 }
-.sec1 {
+.sec1 h1,p{
     color: azure;
     text-align: center;
-    margin-top: 30px;
-    font-size: 30px;
-    text-shadow:10px 10px 10px rgb(red, green, blue);
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: cursive;
 }
+
