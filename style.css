@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bodyH{
+    background: url("Proj3-img.jpg");
+}
+.navbar{
+    display: inline-flex;
+    width: 100%;
+    height: 50px;
+    background: #b22222;
+}
+.navbar .list{
+    margin-top: 15px;
+    
+}
+.navbar .list a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px;
+    width: 30px;
+} 
+.navbar a:hover{
+    color:blue;
+    text-decoration: none;
+}
+.main{
+    margin-left: 40%;
+    margin-top: 1.5%;
+}
+.main h1{
+    color:  #b22222;
+    padding: 20px;
+}
+.main input,select{
+    outline: none;
+    padding: 2px;
+    height: 25px;
+    width: 300px;
+}
+.main1 input{
+    width: 60px;
+}
+.main button{
+    color: white;
+    background: #b22222;
+    width: 100px;
+    height: 25px;
+    cursor: pointer;
+    border :none;
+    outline: none;
+    font-size: 20px;
+}
+.main a{
+    text-decoration: none;
+}
+.footer{
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    display: inline-flex;
+    width: 100%;
+    height: 40px;
+    background: #b22222;
+    margin-top: 50px;
+}
+.footer h3{
+    color: white;
+    align-content: center;
+    margin-left: 470px;
+    font-size: small;
+}
+.sec1 {
+    color: azure;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    text-shadow:10px 10px 10px rgb(red, green, blue);
+}
