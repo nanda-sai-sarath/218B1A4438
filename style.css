@@ -4,6 +4,12 @@
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+bodyH{
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKus5tI9j935HeL1MQ2WOSmAn7Zo5aOLFH2A&s);
+}
+bodyL{
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbk7bj3SMmjxyHIMW8Wq3XOw86dX7l2u5lJQ&s);
+}
 body{
     background:url('http://wallpapercave.com/wp/GUAaScC.jpg');
     color: whitesmoke;
